@@ -17,3 +17,24 @@ This is mainly here for my friends to view, but feel free to look through them!
 
 **Total Credit Hours: 18**
 
+## Past Coursework
+
+### Fall 2023
+| Course Number | Course Name | Credit Hours |
+|---------------|-------------|--------------|
+| COP 4530      | Data Structures and Algorithms II | 3 |
+| CDA 3100      | Computer Organization I           | 3 |
+| MAD 2104      | Discrete Mathematics I            | 3 |
+| PHY 2049C     | General Physics B                 | 5 |
+
+**Total Credit Hours: 14**
+
+### Summer 2023
+| Course Number | Course Name | Credit Hours |
+|---------------|-------------|--------------|
+| COP 3330      | Data Structures and Algorithms I | 3 |
+| LIS 2360      | Web Applications Development           | 3 |
+
+**Total Credit Hours: 6**
+
+
