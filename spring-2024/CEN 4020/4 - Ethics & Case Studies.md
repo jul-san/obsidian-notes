@@ -59,10 +59,10 @@
 	- Kidney damage
 
 ### Insulin Pump Hardware Architecture
-![Insulin Architecture][https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.1bX4f1elXwF-YrWWQeD7JgHaEt%26pid%3DApi&f=1&ipt=ce8546fac4a8af5d3870220a89ba6940ec14cdbdee6bacddd2de58c07a146a72&ipo=images]
+![Insulin Architecture](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.1bX4f1elXwF-YrWWQeD7JgHaEt%26pid%3DApi&f=1&ipt=ce8546fac4a8af5d3870220a89ba6940ec14cdbdee6bacddd2de58c07a146a72&ipo=images)
 
 ### Activity Model of Insulin Pump
-![Activity Model][https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fedshare.gcu.ac.uk%2F2190%2F2%2FImages%2FImg2.png&f=1&nofb=1&ipt=eda3269e986c26a920ab9d9cfaf4055e2ce3d257d22c79e69256482416742a5a&ipo=images]
+![Activity Model](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fedshare.gcu.ac.uk%2F2190%2F2%2FImages%2FImg2.png&f=1&nofb=1&ipt=eda3269e986c26a920ab9d9cfaf4055e2ce3d257d22c79e69256482416742a5a&ipo=images)
 
 ### Essential High-Level Requirements
 - System must be designed and implemented to meet the requirements:
