@@ -17,7 +17,7 @@
     - System is assembled from existing configurable components
 - Most large systems incorporate all of these models
 
-### Waterfall Model
+## Waterfall Model
 ![Waterfall Model](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmiro.medium.com%2Fmax%2F4096%2F1*PHlgy9xuiVN1qlcHo5iCZg.gif&f=1&nofb=1&ipt=a3c1d1a3d0395d17dc2a8e784289db376e2e855fe40d47ab0f0ab677bf1992c0&ipo=images)
 
 ### Waterfall Advantages
@@ -35,4 +35,6 @@
 - Not applicable to business systems
     - Few businesses systems have stable requirements
 
+## Incremental Development
+![Incremental Development](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fi.stack.imgur.com%2FBqktJ.jpg&f=1&nofb=1&ipt=dae44b79eb158ff2dbdbcf9a3d0c0ccdb5e1a1abee2d963feb3784df83838422&ipo=images)
 
