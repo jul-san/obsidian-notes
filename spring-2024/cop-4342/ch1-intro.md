@@ -52,3 +52,16 @@
 - Should take their options from command line indicators like **flags**
 - Output of one filter should be easily readable by another filter
 
+## Unix File Characteristics
+- Files normally follow the paradigm of a "byte-system"
+- Filenames may consist of most Unicode UTF-8 characters except:
+    - NUL
+    - "/"
+- Filenames are case sensitive by default
+- Filenames with a period are generally not displayed (an example would be .git)
+
+## Filename Action
+- "**Globbing**" is a wildcard system for matching file and directory names
+- An asterisk "*" can match any number of characters in path name
+- A question mark "?" matches and single character
+- Square brackets "[]" lets you specify a character class 
