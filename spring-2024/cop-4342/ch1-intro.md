@@ -37,4 +37,11 @@
 | static executable | standalone program that does not need any other runtime support |
 | dynamically linked executable | dynamically loads shared libraries; requires the service of a runtime linked |
 | script | an executable which requires a seperate interpreter |
-| process | the activation of a program; 
+| process | the activation of a program |
+| daemon | a process that generally provides a service of some sort; either self persistent or a child of a persistent process |
+| user shell | provides an environment that accepts keyboard input and provides output to execute programs |
+| built-in | command in a shell that does not cause the execution of a new process |
+| alias | string that is expected to be expanded into another command | 
+| variable | a way to reference a state in a shell |
+| flag | a method to specify options in a command line |
+
