@@ -45,3 +45,10 @@
 | variable | a way to reference a state in a shell |
 | flag | a method to specify options in a command line |
 
+## Filtering
+- A "**filter**" should be read from stdin and should write to stdout
+    - Any should should be written to stderr
+- Filters should not read configuration files
+- Should take their options from command line indicators like **flags**
+- Output of one filter should be easily readable by another filter
+
