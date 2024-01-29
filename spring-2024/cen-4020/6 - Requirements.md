@@ -10,4 +10,15 @@
     - May be the basis for a contract itself; defined in detail
     - Both of these may be requirements
 
-## 
+## Types of Requirements
+- User Requirements:
+    - Statements in natural language
+    - Diagrams of the service 
+    - Written for customers
+- System Requirements:
+    - Structured document setting out detailed instructions of:
+        - System functions
+        - Services
+        - Operational constraints
+    - Defines what should be implemented
+        - May be part of the contract between client and contractor
