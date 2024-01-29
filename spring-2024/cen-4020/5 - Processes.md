@@ -38,3 +38,13 @@
 ## Incremental Development
 ![Incremental Development](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fi.stack.imgur.com%2FBqktJ.jpg&f=1&nofb=1&ipt=dae44b79eb158ff2dbdbcf9a3d0c0ccdb5e1a1abee2d963feb3784df83838422&ipo=images)
 
+### About
+- Plan driven
+    - System increments are identified in advance
+- Agile
+    - Early increments are identified
+    - Development of later increments are identified based on progress and priorities
+- Mixture
+    - Reflect the way we solve problems: come components can be planned; but some uncertain parts go agile
+
+
