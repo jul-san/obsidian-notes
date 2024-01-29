@@ -63,4 +63,10 @@
     - Regular changes tend to corrupt its structure
     - Incorporating further software changes become increasingly difficult and costly
 
+## Integration and Configuration
+- Based on software reuse where systems are integrated from existing components or application systems
+    - Sometimes called Commercial off-the-shelf systems (COTS)
+- Reused elements may be configured to adapt their behavior and functionality to a user's requirements
+- Reuse is now the standard approach for building many types of business systems
+
 
