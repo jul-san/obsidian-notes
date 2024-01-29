@@ -47,4 +47,20 @@
 - Mixture
     - Reflect the way we solve problems: come components can be planned; but some uncertain parts go agile
 
+## Incremental Development Benefits
+- Cost of accomodation changing requirements is reduced
+    - Amount of analysis and documenttion is much less required
+- Easier to get customer feedback
+    - Customers can comment on demonstrations of the software
+- More rapid delivery and deployment 
+    - Customer are able to use and gain software much faster
+
+## Incremental Development Problems
+- Process is not visible
+    - Need regular deliverables to measure progress
+    - If developed quickly, it is not cost-effective to develop documentation
+- Structure tends to degrade as new increments are added
+    - Regular changes tend to corrupt its structure
+    - Incorporating further software changes become increasingly difficult and costly
+
 
