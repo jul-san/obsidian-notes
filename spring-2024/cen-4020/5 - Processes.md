@@ -69,4 +69,7 @@
 - Reused elements may be configured to adapt their behavior and functionality to a user's requirements
 - Reuse is now the standard approach for building many types of business systems
 
+## Reuse-Oriented Software Engineering
+![Reuse-Oriented SWE](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvelog.velcdn.com%2Fimages%2Fseo78200%2Fpost%2F73af27d9-20c2-4de5-96cc-6d132266129f%2Fimage.png&f=1&nofb=1&ipt=724ff7d362f3055d36bb27a0dea374ba953ac1b57b5009bc639d7c7c3ebedc78&ipo=images)
+
 
