@@ -78,3 +78,10 @@
     - Requirements refinement
     - Application system configuration
     - Component adaptation and integration
+
+## Advantages and Disadvantages
+- Reduced costs and risks as less software is developed from scratch
+- Faster delivery and deployment of system
+- Requirements compromises are inevitable
+    - System may not meet real needs of users
+- Loss of control over evolution of reused system elements
