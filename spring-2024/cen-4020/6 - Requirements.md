@@ -45,3 +45,40 @@
     - Responsible for ensuring that system information can be maintained and preserved
     - Make sure that record keeping procedures have been properly implemented
 
+## Functional and Non-functional Requirements
+- Functional Statements
+    - Statements of service the system should provide
+    - May state what the system should not do
+- Non-function requirements
+    - Constraints on the services or functions offered by the system
+    - Often applies to the system as a whole
+- Domain Requirements
+    - Contraints on the system from the operation of the domain
+
+## Functional Requirements
+- Describe functionality or systerm services
+- Depends on the system software, expected users, and the type of system where the software is used
+- Functional user requirements may be high-level statements of what the system should do
+- Requirements should describe the system services in detail
+
+### Mentcare System: Functional Requirements
+- User shall be able to search the appointments, lists for all clinics
+- System shall generate each day, for each clinic, a list of patients who are expected to attend appointments that day
+- Each staff member using the system shall be uniquely identified by his or her 8-digit employee number
+
+### Requirements Imprecision
+- Problems arise when functional requirements are not precisely stated
+- Ambiguous requirements may be interpreted in different ways by developers and users
+- Consider the term _search_ in requirement 1
+    - User Intention - seach for a patient name across all appointments in all clinics
+    - Developer Interpretation - search for a patient name in an individual clinic. User chooses clinic then search.
+
+### Requirements Completeness and Consistency
+- Requirements should be both complete and consistent
+- Complete:
+    - Should include descriptions of all facilities required
+- Consistent:
+    - Should be no conflicts or contradictions in the descriptions of system facilities
+- Because of system and envrionmental complexity, it's impossible to produce a complete and consistent requirements document
+
+
