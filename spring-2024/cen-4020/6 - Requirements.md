@@ -22,3 +22,8 @@
         - Operational constraints
     - Defines what should be implemented
         - May be part of the contract between client and contractor
+
+## Reader of Different Types of Requirements Specifications
+![User and System Requirements](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.yIZqC10uq1JHxvn625hlrgHaEH%26pid%3DApi&f=1&ipt=9f2896e5bd2cb91719857b9f3a32f2a66f4b545d9d44ca5f6ef64ce4503e83f9&ipo=images)
+
+    
