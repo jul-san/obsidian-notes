@@ -88,7 +88,7 @@
     - Storage requirements
 
 ## Types of Non-functional Requirements
-![Non-functional Requirements UML] (https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcs.ccsu.edu%2F~stan%2Fclasses%2FCS410%2Fnotes16%2Fimages%2F04-nonfunctional_requirement_types.png&f=1&nofb=1&ipt=7adfccf723c5997a8fe397d63a151da6f34f6296c76b83e701a3e329f35a66d4&ipo=images)
+![Non-functional Requirements UML](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcs.ccsu.edu%2F~stan%2Fclasses%2FCS410%2Fnotes16%2Fimages%2F04-nonfunctional_requirement_types.png&f=1&nofb=1&ipt=7adfccf723c5997a8fe397d63a151da6f34f6296c76b83e701a3e329f35a66d4&ipo=images)
 
 
 
