@@ -117,3 +117,18 @@
 - also accepts symbolic notation
     - chmod og+w /etc/hosts
 
+## Unlinking and Removing Files and Directories
+- Single file can have many links in a given filesystem
+- Process can use system call **unlink(2)** to remove a file, but not a directory
+- Process can use system call **rmdir(2)** to remove any empty directory
+
+### Command Table
+| Command | Function |
+|---------|----------|
+| rm      | Removes a file |
+| rmdir   | Removes an **empty** directory |
+| rm -r   | Recursively remove directories |
+| rm - i  | Queries the user whether or not to remove a link |
+| rm -f   | Don't complain about non-existent items |
+
+
