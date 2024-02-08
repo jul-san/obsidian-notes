@@ -95,3 +95,25 @@
 |-a       | Includes the dot files |
 | “/bin/ls -d DIRNAME” | Shows information about the directory rather than its contents |
 
+## File Permissions and User Classes
+
+### File Permissions
+| Character | Permission |
+|-----------|------------|
+|r          |Read|
+|w          |Write|
+|x          |Execute|
+
+### User Classes
+| Class     | Description |
+|-----------|-------------|
+| owner     | User Identifier |
+| group     | Group Identifier |
+| other     | All users who are not the owner or in the same group |
+
+## Changing Permissions with "chmod"
+- **chmod** accepts octal notation
+    - chmod 755 /bin/ls
+- also accepts symbolic notation
+    - chmod og+w /etc/hosts
+
