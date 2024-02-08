@@ -82,3 +82,16 @@
 |..         |Points at the parent directory.|
 |~/         |Referring to home directory of the current user |
 |~username/ |Home directory of "username" |
+
+## Shortcutting Path Information
+- It's tedious to type full path names
+- To alleviate:
+    - Specify environment variable "PATH"
+
+## Listing Files
+| Options | Output |
+|---------|--------|
+| -l      | Shows a detailed listing, using one line per file |
+|-a       | Includes the dot files |
+| “/bin/ls -d DIRNAME” | Shows information about the directory rather than its contents |
+
