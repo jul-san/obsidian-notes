@@ -64,4 +64,21 @@
 - "**Globbing**" is a wildcard system for matching file and directory names
 - An asterisk "*" can match any number of characters in path name
 - A question mark "?" matches and single character
-- Square brackets "[]" lets you specify a character class 
+- Square brackets "[]" lets you specify a character class
+
+## Filesystems
+- Directories are tree-structures, and begin with an "/"
+- "**cwd**" is the current working directory
+
+## Filesystem Paths
+- Use **/** to distinguish elements in a path
+- Absolute paths begin with **/**
+- Relative paths begin with any other character
+
+## More on Paths
+| Character | Definition |
+|-----------|------------|
+|.          |Points at the current directory.|
+|..         |Points at the parent directory.|
+|~/         |Referring to home directory of the current user |
+|~username/ |Home directory of "username" |
