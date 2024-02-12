@@ -133,4 +133,4 @@
 - RE is an interative activity in which these processes are interleaved
 
 ## Spiral View of the Requirements Engineering Process
-![Spiral View]("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1600%2F1*3Wosmb7qlsKd1-EMlftWBQ.png&f=1&nofb=1&ipt=625990b38a7908a048c5313df18155a7060de0d0b12b68820889fd7c04e1fd39&ipo=images")
+![Spiral View](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1600%2F1*3Wosmb7qlsKd1-EMlftWBQ.png&f=1&nofb=1&ipt=625990b38a7908a048c5313df18155a7060de0d0b12b68820889fd7c04e1fd39&ipo=images)
