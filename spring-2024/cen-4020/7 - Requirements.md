@@ -66,4 +66,24 @@
         - A requirements proposal
         - Working together to prototype of system
 
+## Interviews In Practice
+- Normally a mixed of closed and open-ended interviewing
+- Interviews are good for getting an overall understanding of what stakeholders do and how they might interact with the system
+- Interviewers need to be open-minded without pre-conceived ideas of what the system should do
+- Need to prompt the use to talk about the system by suggesting requirements rather than simply asking them what they want
+
+## Problems with Interviews
+- Specialists may use language that may not be easy for an engineer to understand
+- Interviews are not good for understanding domain requirements:
+    - Requirements engineers cannot understand specific domain technology
+    - Some domain knowledge is so familiar that people find it hard to articulate or think that it isn't worth articulating
+
+## Requiremtsn Discovery: Ethnography
+- Social scientist spends a considerable time observing and analyzing how people actually work
+- People do not have to explain or articulate their work
+- Social and organization factors of importance may be observed
+- Ethnographic studies have shown that work is usually richer and more complex than suggested by simple sytem models
+
+## Ethnography and Prototyping for Requirements Analysis
+![Graph](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcsis.pace.edu%2F~marchese%2FSE616_New%2FL4%2FL4_files%2Fimage024.png&f=1&nofb=1&ipt=e94cc5cbfe983ff0a3bdf1a9b02649857a4fedc0c708e402f1b7f3209a0d35c0&ipo=images)
 
