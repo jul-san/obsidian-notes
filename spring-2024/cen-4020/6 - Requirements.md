@@ -113,8 +113,8 @@
 ### Metrics for Specifying Nonfunctional Requirements
 | Property | Measure |
 |----------|---------|
-|Speed      |- Processed transactions/second 
-            - User/event response time
-            - Screen refresh time |
-|Size       | - Mbytes
-             - Number of ROM chips
+|Speed      |<ul><li>Processed transactions/second</li>
+                    <li>User/event response time</li>
+                    <li>Screen refresh time</li></ul>|
+|Size       | <ul><li>Mbytes</li>
+                <li>Number of ROM chips</li><ul> |
