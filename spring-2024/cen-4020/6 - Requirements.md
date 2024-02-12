@@ -90,5 +90,31 @@
 ## Types of Non-functional Requirements
 ![Non-functional Requirements UML](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcs.ccsu.edu%2F~stan%2Fclasses%2FCS410%2Fnotes16%2Fimages%2F04-nonfunctional_requirement_types.png&f=1&nofb=1&ipt=7adfccf723c5997a8fe397d63a151da6f34f6296c76b83e701a3e329f35a66d4&ipo=images)
 
+## Non-functional Requirements Implementation
+- May affect overall architecture of a system rather than individual components
+- Single non-functional requirements may generate a number of related functional requirements that define system services
 
+## Non-functional Classifications
+- Product Requirements
+    - Specifies that the delivered product must behave in a particular way
+- Organizational Requirements
+    - A consequence of organizational policies and procedures
+- External Requirements
+    - Arise from factors which are external to the system and its development process
 
+### Goals and Requirements
+- Requirements may be very difficult to state precisely and difficult to verify
+- Goal:
+    - General intention of the user such as ease of use
+- Verifiable non-functional requirement:
+    - Statement using some measure that can be objectively tested
+- Goals are helpful since they convey the intention of the system
+
+### Metrics for Specifying Nonfunctional Requirements
+| Property | Measure |
+|----------|---------|
+|Speed      |- Processed transactions/second 
+            - User/event response time
+            - Screen refresh time |
+|Size       | - Mbytes
+             - Number of ROM chips
