@@ -115,3 +115,8 @@
 |----------|---------|
 |Speed      |<ul><li>Processed transactions/second</li><li>User/event response time</li><li>Screen refresh time</li></ul>|
 |Size       | <ul><li>Mbytes</li><li>Number of ROM chips</li><ul> |
+|Ease of Use | <ul><li>Training time</li><li>Number of help frames</li></ul>|
+|Reliability | <ul><li>Mean time to failure</li><li>Probability of unavailability</li><li>Rate of failure of occurence</li><li>Availbility</li></ul>|
+|Robustness  | <ul><li>Time to restart after failure</li><li>Percentage of events causing failure</li><li>Probability of data corruption on failure</li></ul>|
+|Portability | <ul><li>Percentage of target dependant statements</li><li>Number of target systems</li></ul>|
+
