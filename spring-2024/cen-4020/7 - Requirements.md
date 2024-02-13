@@ -78,7 +78,7 @@
     - Requirements engineers cannot understand specific domain technology
     - Some domain knowledge is so familiar that people find it hard to articulate or think that it isn't worth articulating
 
-## Requiremtsn Discovery: Ethnography
+## Requirements Discovery: Ethnography
 - Social scientist spends a considerable time observing and analyzing how people actually work
 - People do not have to explain or articulate their work
 - Social and organization factors of importance may be observed
@@ -87,3 +87,29 @@
 ## Ethnography and Prototyping for Requirements Analysis
 ![Graph](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcsis.pace.edu%2F~marchese%2FSE616_New%2FL4%2FL4_files%2Fimage024.png&f=1&nofb=1&ipt=e94cc5cbfe983ff0a3bdf1a9b02649857a4fedc0c708e402f1b7f3209a0d35c0&ipo=images)
 
+## Requirements Discovery: Stories and Scenario
+- Scenario and User Stories:
+    - Real-life examples of how a system can be used
+    - Description of how a system may be used for a particular task
+    - Stakeholders can relate to them and can comment on their situation
+- Scenarios:
+    - A structured form of user story
+- Scenarios should include:
+    - Description of starting situation
+    - Description of normal flow of events
+    - Description of what can go wrong
+    - Information about other concurrent activities
+    - Description of the state when the scenario finishes
+
+## Requirements Specification
+- Process of writing down the user and the system requirements in a requirements document
+- User requirements have to be understandable by end-user and customers who do not have a technical background
+- System requirements are more detailed requirements and may include more technical information
+- Requirements may be part of a contract for system development
+    - It is important that these are complete as possible
+
+## Writing Specification
+|Notation   |Description    |
+|Natural Language| <ul><li>Requirements are written using numbered sentences in natural language</li><li>Each sentence should express one requirement</li></ul> |
+|Structured Natural Language| <ul><li>Requirements are written in natural language on a standard form or template</li><li>Each field provides information about an aspect of the requirement</li></ul>|
+|Design Description Language| <ul><li>Uses lanaguage like a programming language, but with more abstract features</li><li>Rarely used, although it can be useful for interface specifications</li></ul>|
