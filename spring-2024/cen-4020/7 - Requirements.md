@@ -110,6 +110,7 @@
 
 ## Writing Specification
 |Notation   |Description    |
+|-----------|---------------|
 |Natural Language| <ul><li>Requirements are written using numbered sentences in natural language</li><li>Each sentence should express one requirement</li></ul> |
 |Structured Natural Language| <ul><li>Requirements are written in natural language on a standard form or template</li><li>Each field provides information about an aspect of the requirement</li></ul>|
 |Design Description Language| <ul><li>Uses lanaguage like a programming language, but with more abstract features</li><li>Rarely used, although it can be useful for interface specifications</li></ul>|
