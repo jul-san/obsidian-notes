@@ -114,3 +114,77 @@
 |Natural Language| <ul><li>Requirements are written using numbered sentences in natural language</li><li>Each sentence should express one requirement</li></ul> |
 |Structured Natural Language| <ul><li>Requirements are written in natural language on a standard form or template</li><li>Each field provides information about an aspect of the requirement</li></ul>|
 |Design Description Language| <ul><li>Uses lanaguage like a programming language, but with more abstract features</li><li>Rarely used, although it can be useful for interface specifications</li></ul>|
+|Graphical Notations| <ul><li>Used to define functional requirements for the system</li><li>UML use case and sequence diagrams are commonly used</li></ul>|
+|Mathematical Specifications| <ul><li>Based on mathematical concepts such as finite-state machines or sets</li><li>Can reduce the ambiguity in a requirements document</li><li>Cannot check that it represents what they want and are reluctant to accept it as a system contract</li></ul>|
+
+## Guidelines for Writing Requirements
+- Invent a standard format and use it for all requirements
+- Use language in a consistent way
+    - Use shall be mandatory requirements, should be desirable for requirements
+- Use text highlighting to identify key parts of the requirement
+- Avoid the use of computer jargon
+
+## Structured Specifications
+- Approach to writing requirements where the freedom of the requirements writer is limited and requirements are written in a standard way
+- Works well for some types of requirements, but is sometimes too rigid for writing business sytem requirements
+
+## Form-Based Specifications
+- Definition of a function or entity
+- Description of inputs and where they come from
+- Description of outputs and where they go
+- Information about the information needed for computation and other entities used
+- Description of the action to be taken
+- Pre and post conditions (if appropriate)
+- The side effects (if any) of the function 
+
+## Tabular Specification
+- Used to supplement natural language
+- Particularly useful when you have to define a number of possible alternative courses of action
+
+## Structure of a Requirements Document
+|Chapter |Description |
+|--------|------------|
+|Preface |Shoule define the expected readership of the document and describe its version history |
+|Introduction |Describes the need for the system, its functions, how it works with other systems, and how it fits in the overall business. |
+|Glossary |Defines technical terms used in a document |
+|User Requirement Definitions |Describe the services provided for the user. |
+|System Architecture |Presents a high-level overview of the anticipated system architecture, showing the distribution of functions across system modules.|
+|System Requirements Specification |Should describe functional and nonfunctional requirements in more detail. |
+|System Modules |Might include graphical models showing the relationships between the system components and the system and its environment. |
+|System Evolution |Describes fundamental assumptions on which the system is based, and any anticipated changes. |
+|Appendices |Should provide detailed, specific information that is related to the application being developed. |
+|Index |Several indexes to the document may be included. |
+
+## Requirements Checking
+- Validity:
+    - Does the system provide the functions which best support the customer's needs
+- Consistency:
+    - Are all the requirements conflicts?
+- Completeness:
+    - Are all functions required by the customer included?
+- Realism:
+    - Can the requirements be implemented given available budget and technology?
+- Verifiability:
+    - Can the requirements be checked?
+
+## Requirements Validation Techniques
+- Requirements reviews:
+    - Systematic manual analysis of the requirements
+- Prototyping:
+    - Using an executable model of the system to check requirements
+- Test-case generation:
+    - Developing tests for requirements to check testability
+
+## Changing Requirements
+- The business and technical environment of the system always change after installation
+    - New hardware may be introduced
+    - May be necessary to interface the system with other systems
+    - Business priorities may change
+    - New legislation and regulations may be introduced
+- The people who pay for the system and the users of that system are rarely the same people
+    - System customers impose requirements because of organizational and budgetary constraints
+    - May conflict with end-user requirements
+
+## Requirements Evolution
+![Evolution](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage3.slideserve.com%2F6112718%2Frequirements-evolution-l.jpg&f=1&nofb=1&ipt=5f1dbbea7c1141a1e2e64a2af93c9ba1d8da7c72f1bcff1229dfec0a941b682a&ipo=images)
+
