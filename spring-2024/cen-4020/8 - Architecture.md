@@ -40,3 +40,25 @@
 ## Architectural Design Decisions
 ![Diagram](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.slidesharecdn.com%2Fch6architecturaldesign-150102101849-conversion-gate02%2F95%2Fch6-architectural-design-13-638.jpg%3Fcb%3D1420194054&f=1&nofb=1&ipt=f08a2cdfd38621ca0395b04d5a208d010204e26c813831b9beeaedb35beacb8a&ipo=images)
 
+## Architecture and System Charcteristics
+- Performance
+    - Localize critical operations and minimize communications.
+    - Use large rather than fine-grain components.
+- Security
+    - Use a layered architecture with critical assets in the inner layers.
+- Safety
+    - Localize safety-critical features in a small number of sub-systems.
+- Availability
+    - Include redundant components and mechanisms for fault tolerance.
+- Maintainability
+    - Use fine-grain, replaceable components
+
+## Architectural Views
+- Views or perspectives are useful when designing and documenting a system's architecture.
+    - Notations should be used.
+- Each model only shows one view or perspective of the system.
+    - Might show how a system id decomposed into modules.
+    - How the run-time processes interact.
+    - For both design and documentation, you usually need to present multiple views of the architecture
+
+![Diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/4%2B1_Architectural_View_Model.svg/1200px-4%2B1_Architectural_View_Model.svg.png)
