@@ -37,4 +37,6 @@
     - Requirements for the model semantics depend on how the models are used
 - Useful for communication with stakeholders and project planning
 
+## Architectural Design Decisions
+![Diagram](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.slidesharecdn.com%2Fch6architecturaldesign-150102101849-conversion-gate02%2F95%2Fch6-architectural-design-13-638.jpg%3Fcb%3D1420194054&f=1&nofb=1&ipt=f08a2cdfd38621ca0395b04d5a208d010204e26c813831b9beeaedb35beacb8a&ipo=images)
 
