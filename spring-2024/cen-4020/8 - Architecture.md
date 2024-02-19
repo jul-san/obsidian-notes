@@ -62,3 +62,23 @@
     - For both design and documentation, you usually need to present multiple views of the architecture
 
 ![Diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/4%2B1_Architectural_View_Model.svg/1200px-4%2B1_Architectural_View_Model.svg.png)
+
+## Architectural Patterns
+- An architectural pattern is:
+    - A stylized description of good design practice.
+    - Has been tried and tested in different envrionments.
+    - Used as a means of representing, sharing and reusing knowledge.
+- Patterns should include information about:
+    - When they are and when they are not useful.
+- Patterns may be represented:
+    - Using tabular descriptions.
+    - Using graphical descriptions.
+
+## Widely Used Patters
+- Model-View-Controller
+- Layered
+- Repository
+- Client-Server
+- Pipe and Filter
+
+
