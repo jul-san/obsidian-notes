@@ -46,4 +46,28 @@
     - User interface.
     - User communications.
     - Information retrieval.
-    - System database2.
+    - System database.
+
+## Web-based Information Systems
+- Information and resource management systems are now usually web-based systems.
+    - Where the user interfaces are implemented using a web browser.
+- For example, e-commerce systems are internet-based resource management systems
+    - They accept electronic orders for goods or services and then arrange delivery of these good or services to the customer.
+- A 'shopping car' functionality
+    - In the application-specific layer, to support the placement of iterms in separate transaction, then payment for them all together in a single transaction.
+
+## Server Implementation
+- These systems are often implemented as multi-tier client server/architectres
+    - Web server is responsible for all user communications, with the user interface implemented using a web browser.
+    - The application server is responsible for implementing application-specific logis as well as information storage and retrieval requests.
+    - The database server moves information to and from the database and handles transaction management.
+
+## Language Processing Systems
+- Accept a natural or artifical language as imput and generate some other representation of that lanaguage.
+- May include an interpreter to act on the instructions in the language that is being processed.
+- Used in situations where the easiest way to solve a problem is to describe an algorithm or describe the system data.
+    - Meta-case tools and process tool descriptions, method rules, etc and generate tools.
+
+## Architecture of a Language Processing System
+![Model](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcsis.pace.edu%2F~marchese%2FSE616_New%2FL6%2FL6_files%2Fimage026.png&f=1&nofb=1&ipt=0a4b85addd65b41348c5c13bd75d0a8a2837d94294d5879a95b8c929f4132f18&ipo=images)
+
