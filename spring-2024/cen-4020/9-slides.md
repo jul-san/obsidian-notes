@@ -39,3 +39,11 @@
 ## Structure of Transaction Processing Applications
 ![visual](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage1.slideserve.com%2F2403136%2Ffigure-6-14-the-structure-of-transaction-processing-applications-l.jpg&f=1&nofb=1&ipt=fc35e50ccd05fd4576b0f8f15052ef1106e65985224612d63ed4379623c65ded&ipo=images)
 
+## Information Systems Architecture
+- Information systems have a generic architecture that can be organized as a layered architecture.
+- Transaction-bases systems as interaction with these systems generally involves databse transactions.
+- Layers include:
+    - User interface.
+    - User communications.
+    - Information retrieval.
+    - System database2.
