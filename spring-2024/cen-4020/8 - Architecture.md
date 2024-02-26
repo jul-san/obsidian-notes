@@ -82,3 +82,8 @@
 - Pipe and Filter
 
 
+## The Model-View-Controller (MVC) Pattern
+| Name | MVC |
+|------|-----|
+| Description | Seperates presentation and interaction from the system data. |
+| Example | A web-based application used system organized using the MVC pattern
